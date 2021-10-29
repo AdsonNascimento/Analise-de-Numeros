@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(107, 105, 241);
+    font: normal 1.2em Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    padding: 10px;
+    width: 450px;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.377);
+    text-align: center;
+}
+
+select#tabela{
+    width: 250px;
+    margin: 10px;  
+}
+
+div#res {
+    text-align: left;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
