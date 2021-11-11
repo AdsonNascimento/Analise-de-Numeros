@@ -11,4 +11,4 @@ https://adsonnascimento.github.io/Analise-de-Numeros/
 
 ##
 
-![tratamento](https://user-images.githubusercontent.com/92870039/141298028-e59c27b7-53ac-470f-b146-daf035233fef.png)
+![Captura de tela 2021-11-11 093419](https://user-images.githubusercontent.com/92870039/141298919-b0aebf75-af6c-4a09-bc97-d86f03f603ee.png)
